@@ -1,3 +1,5 @@
+[![DeepSource](https://deepsource.io/gh/KOSASIH/IOTech.svg/?label=active+issues&show_trend=true&token=uMEP7rLoxOsTpujvJNUe4N4D)](https://deepsource.io/gh/KOSASIH/IOTech/?ref=repository-badge)
+
 ## Welcome to IOTech Pages
 
 You can use the [editor on GitHub](https://github.com/KOSASIH/IOTech/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
