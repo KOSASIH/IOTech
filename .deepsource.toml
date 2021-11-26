@@ -1,0 +1,28 @@
+version = 1
+
+[[analyzers]]
+name = "python"
+enabled = true
+
+[[analyzers]]
+name = "terraform"
+enabled = true
+
+[[analyzers]]
+name = "ruby"
+enabled = true
+
+[[analyzers]]
+name = "docker"
+enabled = true
+
+  [analyzers.meta]
+  dockerfile_paths = ["50000"]
+
+[[analyzers]]
+name = "java"
+enabled = true
+
+[[transformers]]
+name = "rubocop"
+enabled = true
